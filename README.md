@@ -1,2 +1,3 @@
 # nlw-journey-rocketseat
-NLW Journey Rocketseat
+
+- Evento Gratuito de Programação na Prática da Rocketseat
