@@ -1,5 +1,4 @@
 import { Plus } from "lucide-react";
-
 import { useState } from "react";
 
 import CreateActivityModal from "../../pages/trip-details/create-activity-modal";
